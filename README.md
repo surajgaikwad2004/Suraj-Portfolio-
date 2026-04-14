@@ -6,7 +6,7 @@ A modern, 3D-enhanced personal portfolio website built with pure **HTML**, **CSS
 
 ## 📸 Preview
 
-> **Live at:** [surajgaikwad.dev](https://surajgaikwad2004.github.io/Suraj-Portfolio-/) *(update with your actual URL)*
+> **Live at:** [surajgaikwad.dev](https://surajgaikwad2004.github.io/Suraj-Portfolio-/) 
 
 ---
 
